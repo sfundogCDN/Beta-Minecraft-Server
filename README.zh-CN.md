@@ -11,3 +11,5 @@ Wow,Minecraft 源代码,还是Beta版的!!
 
 ### ???:
 Bukkit beta 1.8.1 源代码,好玩的是,这个版本的源代码没有进行混淆,哈哈!
+### 警告:
+仅供学习,不要违反 Mojang EULA!

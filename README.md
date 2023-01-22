@@ -11,3 +11,5 @@ Use software: .Recaf and jd-gui
 
 ### ???:
 Bukkit beta 1.8.1 source code. Interestingly, the source code of this version is not obfuscation,lol!
+### Warning:
+For learning only, do not violate Mojang EULA!

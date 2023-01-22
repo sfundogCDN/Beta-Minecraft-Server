@@ -1,5 +1,5 @@
 # 源代码
-Wow,Minecraft源代码,还是Beta版的!!
+Wow,Minecraft 源代码,还是Beta版的!!
 ==========
 [English](./README.md) | [中文](./README.zh-CN.md)
 
